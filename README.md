@@ -1,7 +1,8 @@
-# gerenciadorAlura
+# gerenciador
+
 Projeto feito juntamente com o curso da Alura.
 
-### Projeto simples que gerencia nome e data de empresa.
+### Projeto basico que gerencia nome e data de empresa, com um simples CRUD. Os dados ficam armazenados na memória, não foi implementado banco de dados.
 
 #### tecnologias usadas:
   - Java 8 - Dynamic Web Project
