@@ -29,6 +29,6 @@
 		</form>
 		<br/>
 		<br/>
-		<a href="/gerenciador/entrada?acao=ListaEmpresas">Voltar</a>
+		<a href="/gerenciador">Home</a>
 	</body>
 </html>
